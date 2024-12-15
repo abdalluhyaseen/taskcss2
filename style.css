@@ -681,6 +681,33 @@ border-image: url(/images/bordar1.jpeg) 33% 33% 33% 33%;
 
  /* task 20 */
 
+.k{
+text-align: center;
+height: 100px;
+color: white;
+background-color: black;
+
+}
+.k1{
+background-color: gray;
+text-align: center;
+position: absolute;
+top: 150px;
+}
+
+.k2{
+position: absolute;
+top: 150px;
+
+left: 50%;
+
+
+}
+
+
+
+
+
 
 
 
