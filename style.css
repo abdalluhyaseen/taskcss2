@@ -586,24 +586,39 @@ left: 250px;
 
  /* task 17 */
 
+.m{
+background-color: black;
+height: 50px;
+position: sticky;
+top: 0;
 
+}
 
+.m1{
+color: white;
+left: 50px;
+top: 00;
+position: absolute;
 
+}
 
+.m2{
+    color: white;
+    left: 75px;
+    top:0x;
+    position: absolute;
+    
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .m3{
+        color: white;
+        left: 150px;
+        top: 0px;
+        position: absolute;
+        
+        }
+    
+   
 
 
 /* ############################################################# */
