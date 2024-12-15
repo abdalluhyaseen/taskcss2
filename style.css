@@ -1,0 +1,673 @@
+/* task 1 */
+
+.p1{
+    border: 1px;
+width: 100px;
+height: 100px;
+background-color: orange;
+margin: auto;
+margin-top: 50px;
+text-align: center;
+line-height: 50px;
+opacity:1
+}
+.p2{
+
+    border: 1px;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 50px;
+    opacity:0.75;
+
+}
+ .p3{
+    border: 1px;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 50px;
+    opacity: 0.5;
+ }
+
+.p4{
+    border: 1px;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 50px;
+    opacity:0.25
+
+}
+/* ############################################################# */
+
+/* task 2 */
+.o1{
+border: 1px black solid;
+overflow: visible;
+width: 500px;
+height: 100px;
+margin: auto;
+
+}
+.o2{
+    border: 1px black solid;
+overflow: hidden;
+width: 500px;
+height: 100px;
+margin: auto;
+}
+.o3{
+    border: 1px black solid;
+    overflow: scroll;
+    width: 500px;
+height: 100px;
+margin: auto;
+}
+
+.o4{
+    border: 1px black solid;
+    overflow: auto;
+    width: 500px;
+height: 100px;
+margin: auto;
+}
+/* ############################################################# */
+/* task 3 */
+
+.a1{
+    border: solid 1px black;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+}
+.a2{
+   border: dashed red; 
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+}
+.a3{
+border: dotted blue;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+
+}
+
+.a4{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+border: double purple;
+}
+
+.a5{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+border: groove fuchsia;
+}
+
+.a6{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+border: ridge greenyellow;
+}
+
+.a7{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+border: inset yellow;
+}
+
+.a8{
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+border: outset brown;
+}
+
+/* ############################################################# */
+
+/* task 4 */
+
+.b1{
+    border: 1px solid blue;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+}
+
+.b2{  width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+
+    outline: 1px red solid;
+}
+
+.b3{
+    border: 1px solid blue;
+    outline: 1px red dashed;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 10px; 
+
+}
+
+.b4{
+
+    border: 1px solid green;
+    outline-offset:20px ;
+    outline: solid orange;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center; 
+margin-top: 40px; 
+
+
+}
+
+/* ############################################################# */
+/* task 5 */
+
+.c2{
+    text-align: center;
+  
+}
+
+.c1{
+    border: 1px solid blueviolet ;
+    background-color: mediumorchid;
+height: 100px;
+width: 800px;
+padding: 50px 10px;
+
+
+}
+/* ############################################################# */
+
+/* task 6 */
+
+
+.d2{
+    text-align: center;
+   
+}
+
+.d1{
+    border: 1px solid blueviolet ;
+    background-color: mediumorchid;
+height: 200px;
+width: 800px;
+margin: 50px 10px;
+
+
+}
+/* ############################################################# */
+
+/* task 7 */
+
+.e{
+border: solid orange 1px;
+height: 100px;
+width: 200px;
+text-align: center;
+background-color: orange;
+margin: auto;
+margin-top: 30px;
+border-radius: 10px;
+}
+
+.e1{
+    
+    box-shadow: 10px 10px 15px 0 wheat;
+}
+
+.e2{
+    box-shadow: 5px 5px 10px 0 wheat inset;
+}
+
+.e3{
+    box-shadow: 5px 5px 10px black, -5px -5px 10px red;
+   
+}
+
+/* ############################################################# */
+
+/* task 8 */
+
+.f1{
+    border: 1px solid black;
+    height:75px;
+    position: relative;
+}
+
+.f2{
+    position: fixed;
+    z-index: 1;
+border: solid 1px blue;
+background-color: blue;
+width: 800px;
+height: 50px;
+top: 70px;
+left: 15px;
+
+}
+
+.f3{
+border: 1px solid green;
+background-color: rgb(43, 204, 43);
+width: 300px;
+height: 100px;
+position: absolute;
+top: 0;
+left: 200px;
+}
+
+/* ############################################################# */
+
+/* task 9 */
+
+.g{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+  margin: 5px;
+}
+
+.g1{
+background-color: blue;
+}
+
+.g2{
+
+background-color: red;
+
+}
+.g3{
+background-color: yellow;
+
+}
+.g4{
+
+background-color: green;
+
+}
+/* ############################################################# */
+
+/* task 10 */
+
+.t{
+border: 1px solid;
+width: 100px;
+height: 100px;
+}
+.t1{
+background-color: red;
+top: 0;
+left: 0;
+position: relative;
+}
+.t2{
+position: absolute;
+background-color: green;
+bottom: 0;
+left: 0;
+}
+.t3{
+    position: absolute;
+
+background-color: yellow;
+bottom: 0;
+right: 0;
+}
+ .t4{
+    position: absolute;
+
+ background-color: blue;
+top: 0;
+right: 0;
+
+ }
+
+/* ############################################################# */
+
+/* task 11 */
+
+.s1{
+border-bottom: dashed blue 5px;
+border-left: solid red 5px;
+background-color: rgb(168, 233, 232);
+width: 200px;
+height: 100px;
+
+
+
+}
+/* ############################################################# */
+/* task 12 */
+
+.out{
+border: solid blue 2px;
+padding: 10px;
+margin: 10px;
+
+}
+
+.in{
+border: dashed red 2px;
+background-color: pink;
+margin: 10px;
+padding: 10px;
+}
+
+/* ############################################################# */
+
+/* task 13 */
+
+.i1{
+    margin: auto;
+    margin-top: 150px;
+    width: 410px;
+    height: 500px;
+overflow: auto;
+
+}
+/* ############################################################# */
+/* task 14 */
+
+.sh{
+margin: auto;
+    margin-top: 100px;
+    text-align: center;
+border: solid 1px red;
+width: 250px;
+height: 300px;
+box-shadow: 5px -5px 0 0 white ,
+ 10px -10px 0 0 blue , 
+ 15px -15px 0 0  white,
+ 20px -20px 0 0  green, 
+ 25px -25px white, 
+ 30px -30px mediumslateblue;
+
+}
+
+/* ############################################################# */
+
+/* task 15 */
+
+.z0{
+position: relative;
+width: 800px;
+height: 500px;
+
+}
+
+.z{
+    
+    text-align: center;
+border: solid 1px;
+border-radius: 5px;
+width: 75px;
+height: 75px;
+margin: auto;
+position: absolute;
+}
+
+.z1{
+background-color: palevioletred;
+top: 190px;
+left: 310px;
+z-index: 1;
+
+
+}
+.z2{
+   
+background-color: blue;
+top: 150px;
+left: 350px;
+
+
+}
+
+.z3{ 
+background-color: yellow;
+top: 150px;
+left: 435px;
+
+}
+
+.z4{
+background-color: green;
+top: 150px;
+left: 520px;
+
+
+
+}
+
+.z5{
+background-color: purple;
+top: 235px;
+left: 265px;
+
+
+
+
+
+}
+
+.z6{
+background-color: mediumorchid;
+top: 235px;
+left: 350px;
+
+
+
+
+}
+
+.z7{
+background-color: palevioletred;
+top: 235px;
+left: 435px;
+
+
+
+}
+
+.z8{
+
+background-color: blue;
+top: 235px;
+left: 520px;
+
+
+
+
+}
+.z9{
+background-color: green;
+top: 320px;
+left: 265px;
+
+
+
+
+}
+
+.z10{
+background-color: yellow;
+top: 320px;
+left: 350px;
+
+
+
+
+
+}
+
+.z11{
+background-color: purple;
+top: 320px;
+left: 435px;
+
+
+
+
+
+}
+
+.z12{
+background-color: mediumorchid;
+top: 320px;
+left: 520px;
+
+
+
+
+}
+
+/* ############################################################# */
+ /* task 16 */
+
+.im{
+position: fixed;
+width: 200px;
+height: 200px;
+
+}
+
+.im1{
+position: absolute;
+
+left: 250px;
+
+
+}
+
+/* ############################################################# */
+
+ /* task 17 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ############################################################# */
+ /* task 18 */
+
+.zb{
+border-radius: 10px;
+position: absolute; 
+
+}
+
+.-z1{
+
+z-index:1;
+top: 0px;
+left: 0px;
+}
+
+.-z2{
+
+top:25px;
+left: 25px;
+z-index: -1;
+
+}
+
+.-z3{
+
+    top: 50px;
+    left: 50px;
+    z-index: -2;
+    
+    }
+    
+    .-z4{
+z-index: -3;
+      top:75px;
+        left: 75px;
+        
+        }
+        
+/* ############################################################# */
+        
+ /* task 19 */
+        
+    .img{
+border: solid black 100px ;
+width: 70%;
+height: 20%;
+padding: 15px;
+top: 50%;
+left: 50%;
+position: absolute;
+transform: translate(-50%,-50%);
+border-image: url(/images/bordar1.jpeg) 33% 33% 33% 33%;
+
+    }
+
+/* ############################################################# */
+
+ /* task 20 */
+
+
+
+
+
+
