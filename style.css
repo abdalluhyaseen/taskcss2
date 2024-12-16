@@ -341,7 +341,7 @@ height: 100px;
 background-color: red;
 top: 0;
 left: 0;
-position: relative;
+position: absolute;
 }
 .t2{
 position: absolute;
